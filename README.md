@@ -45,9 +45,6 @@ Industrial-Flange-Defect-Detection-using-OpenCV/
 
 The inspection system detects surface defects on the generated industrial flange image.
 
-```text
-[RESULT] Inspection Outcome: FAIL: SURFACE_DEFECT
-```
 
 ![Inspection Result](result.png)
 
